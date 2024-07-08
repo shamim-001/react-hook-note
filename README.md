@@ -1,3 +1,3 @@
 # React Hook Note
 
-- Reference [john-smilga react course](https://github.com/john-smilga/react-course-v3)
+- Reference [John Smilga React Course](<a href="https://github.com/john-smilga/react-course-v3" target="_blank" rel="noopener noreferrer">https://github.com/john-smilga/react-course-v3</a>)
